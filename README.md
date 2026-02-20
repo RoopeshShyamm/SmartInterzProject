@@ -81,8 +81,8 @@ Food-Ordering-App-MERN/
 ### 1️⃣ Clone the Repository
 
 ```
-git clone https://github.com/sambasivagudala369/Smartinternz1
-cd Smartinternz1
+git clone https://github.com/RoopeshShyamm/SmartInterzProject
+cd SmartInternzProject
 ```
 
 ### 2️⃣ Install Dependencies
